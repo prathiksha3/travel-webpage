@@ -1,0 +1,21 @@
+.navbar{
+  height: 80px;
+  background-color:blue;
+  color:brown;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+  
+  
+}
+.card{
+  height: 50px;
+}
+.position-relative img{
+  height: 500px;
+  width: 500px;
+
+}
