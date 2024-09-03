@@ -30,4 +30,5 @@ Bootstrap 5: Used for responsive components such as the navbar, carousel, and ca
 Bootstrap CDN:
 
 CSS: https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
+
 JS: https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
